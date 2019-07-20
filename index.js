@@ -24,5 +24,5 @@ function ternaryCheckCity(city){
 }
 
 
-tip = 
+function 
 
