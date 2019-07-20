@@ -27,14 +27,14 @@ var tip = 5
 
 function switchOnCharmFromTip(tip) {
   switch(tip){
-    case 5
-      return "Thank you so much.";
+    case 5:
+      "Thank you so much.";
       break;
-    case 2 
-      return "Thank you.";
+    case 2:
+      "Thank you.";
       break;
     default:
-      return "Bye.";
+      "Bye.";
       break;
   }
 }
