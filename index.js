@@ -31,7 +31,9 @@ function switchOnCharmFromTip(tip) {
       return "Thank you so much.";
       break;
     case 2 
-      return ""
+      return "Thank you.";
+      break;
+    case
   }
 }
 
